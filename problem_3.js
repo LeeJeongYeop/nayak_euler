@@ -1,5 +1,5 @@
 window.onload = function(){
-	var i=3;
+	var i=2;
 	var x=600851475143;
 
 	while(true){
